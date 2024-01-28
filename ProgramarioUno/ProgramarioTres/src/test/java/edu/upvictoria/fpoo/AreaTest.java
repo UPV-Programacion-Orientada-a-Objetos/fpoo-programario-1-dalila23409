@@ -16,7 +16,7 @@ public class AreaTest {
         int b = 4;
         int h=90;
         Area r= new Area();
-        assertEquals(360, r.area(b, h));
+        assertEquals(360, r.area(b,h));
 
     }
 

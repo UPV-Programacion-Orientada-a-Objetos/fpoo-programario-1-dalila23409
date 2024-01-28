@@ -5,9 +5,27 @@ import static org.junit.Assert.assertEquals;
 
 public class CircuferenciaTest {
     @Test
-    public void area_1(){
+    public void area_1() throws IOException {
         double r= 8;
+        double circu=0;
         Area a= new Area();
-        assertEquals(40, a.area(r));
+        assertEquals(201.0619, a.area(circu, r));
+
+
+    }
+    @Test
+    public void area_2() throws IOException {
+        double r= 10;
+        double circu=0;
+        Area a= new Area();
+        assertEquals(314.1592, a.area(circu, r));
+    }
+    @Test
+    public void area_3() throws IOException {
+        double r= 4.5;
+        double circu=0;
+        Area a= new Area();
+        assertEquals(63.6172, a.area(circu, r));
     }
 }
+
