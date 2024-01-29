@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3fde2afa-9b7d-4273-923b-a2457f360a10" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProblemaCatorce/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ProblemaCatorce/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProblemaCatorce/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ProblemaCatorce/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProblemaCatorce/src/main/java/edu/upvictoria/fpoo/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ProblemaCatorce/src/main/java/edu/upvictoria/fpoo/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProblemaCatorce/src/main/java/edu/upvictoria/fpoo/Estacionamiento.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ProblemaCatorce/src/main/java/edu/upvictoria/fpoo/Estacionamiento.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProblemaCatorce/src/main/java/edu/upvictoria/fpoo/ProblemaCatorce.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ProblemaCatorce/src/main/java/edu/upvictoria/fpoo/ProblemaCatorce.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProblemaCatorce/src/test/java/edu/upvictoria/fpoo/EstacionamientoTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ProblemaCatorce/src/test/java/edu/upvictoria/fpoo/EstacionamientoTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProblemaCinco/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ProblemaCinco/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProblemaCinco/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ProblemaCinco/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProblemaDiecinueve/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ProblemaDiecinueve/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProblemaDiecinueve/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ProblemaDiecinueve/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProblemaDiecinueve/src/main/java/edu/upvictoria/fpoo/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ProblemaDiecinueve/src/main/java/edu/upvictoria/fpoo/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProblemaDiecinueve/src/main/java/edu/upvictoria/fpoo/Bicicleta.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ProblemaDiecinueve/src/main/java/edu/upvictoria/fpoo/Bicicleta.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProblemaDiecinueve/src/main/java/edu/upvictoria/fpoo/ProblemaDiecinueve.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ProblemaDiecinueve/src/main/java/edu/upvictoria/fpoo/ProblemaDiecinueve.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProblemaDiecinueve/src/test/java/edu/upvictoria/fpoo/BicicletaTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ProblemaDiecinueve/src/test/java/edu/upvictoria/fpoo/BicicletaTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProblemaDieciocho/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ProblemaDieciocho/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProblemaDieciocho/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ProblemaDieciocho/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProblemaDieciocho/src/main/java/edu/upvictoria/fpoo/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ProblemaDieciocho/src/main/java/edu/upvictoria/fpoo/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProblemaDieciocho/src/main/java/edu/upvictoria/fpoo/Boletos.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ProblemaDieciocho/src/main/java/edu/upvictoria/fpoo/Boletos.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProblemaDieciocho/src/main/java/edu/upvictoria/fpoo/ProblemaDieciocho.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ProblemaDieciocho/src/main/java/edu/upvictoria/fpoo/ProblemaDieciocho.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProblemaDieciocho/src/test/java/edu/upvictoria/fpoo/BoletosTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ProblemaDieciocho/src/test/java/edu/upvictoria/fpoo/BoletosTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProblemaDieciseis/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ProblemaDieciseis/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProblemaDieciseis/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ProblemaDieciseis/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProblemaDieciseis/src/main/java/edu/upvictoria/fpoo/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ProblemaDieciseis/src/main/java/edu/upvictoria/fpoo/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProblemaDieciseis/src/main/java/edu/upvictoria/fpoo/Pintura.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ProblemaDieciseis/src/main/java/edu/upvictoria/fpoo/Pintura.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProblemaDieciseis/src/main/java/edu/upvictoria/fpoo/PrblemaDieciseis.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ProblemaDieciseis/src/main/java/edu/upvictoria/fpoo/PrblemaDieciseis.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProblemaDieciseis/src/test/java/edu/upvictoria/fpoo/PinturaTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ProblemaDieciseis/src/test/java/edu/upvictoria/fpoo/PinturaTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProblemaDiecisiete/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ProblemaDiecisiete/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProblemaDiecisiete/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ProblemaDiecisiete/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProblemaDiecisiete/src/main/java/edu/upvictoria/fpoo/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ProblemaDiecisiete/src/main/java/edu/upvictoria/fpoo/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProblemaDiecisiete/src/main/java/edu/upvictoria/fpoo/Cateto.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ProblemaDiecisiete/src/main/java/edu/upvictoria/fpoo/Cateto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProblemaDiecisiete/src/main/java/edu/upvictoria/fpoo/ProblemaDiecisiete.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ProblemaDiecisiete/src/main/java/edu/upvictoria/fpoo/ProblemaDiecisiete.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProblemaDiecisiete/src/test/java/edu/upvictoria/fpoo/CatetoTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ProblemaDiecisiete/src/test/java/edu/upvictoria/fpoo/CatetoTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProblemaDiez/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ProblemaDiez/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProblemaDiez/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ProblemaDiez/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProblemaDiez/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ProblemaDiez/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProblemaDiez/src/main/java/edu/upvictoria/fpoo/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ProblemaDiez/src/main/java/edu/upvictoria/fpoo/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProblemaDiez/src/main/java/edu/upvictoria/fpoo/ProblemaDiez.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ProblemaDiez/src/main/java/edu/upvictoria/fpoo/ProblemaDiez.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProblemaDiez/src/main/java/edu/upvictoria/fpoo/Tela.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ProblemaDiez/src/main/java/edu/upvictoria/fpoo/Tela.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProblemaDiez/src/test/java/edu/upvictoria/fpoo/TelaTes.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ProblemaDiez/src/test/java/edu/upvictoria/fpoo/TelaTes.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProblemaDoce/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ProblemaDoce/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProblemaDoce/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ProblemaDoce/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProblemaDoce/src/main/java/edu/upvictoria/fpoo/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ProblemaDoce/src/main/java/edu/upvictoria/fpoo/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProblemaDoce/src/main/java/edu/upvictoria/fpoo/Area.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ProblemaDoce/src/main/java/edu/upvictoria/fpoo/Area.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProblemaDoce/src/main/java/edu/upvictoria/fpoo/ProblemaDoce.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ProblemaDoce/src/main/java/edu/upvictoria/fpoo/ProblemaDoce.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProblemaDoce/src/test/java/edu/upvictoria/fpoo/TrianguloTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ProblemaDoce/src/test/java/edu/upvictoria/fpoo/TrianguloTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProblemaNueve/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ProblemaNueve/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProblemaNueve/src/main/java/edu/upvictoria/fpoo/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ProblemaNueve/src/main/java/edu/upvictoria/fpoo/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProblemaNueve/src/main/java/edu/upvictoria/fpoo/ProblemaNueve.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ProblemaNueve/src/main/java/edu/upvictoria/fpoo/ProblemaNueve.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProblemaNueve/src/main/java/edu/upvictoria/fpoo/Salario.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ProblemaNueve/src/main/java/edu/upvictoria/fpoo/Salario.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProblemaNueve/src/test/java/edu/upvictoria/fpoo/SalarioTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ProblemaNueve/src/test/java/edu/upvictoria/fpoo/SalarioTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProblemaOcho/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ProblemaOcho/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProblemaOcho/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ProblemaOcho/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProblemaOcho/src/main/java/edu/upvictoria/fpoo/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ProblemaOcho/src/main/java/edu/upvictoria/fpoo/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProblemaOcho/src/main/java/edu/upvictoria/fpoo/Distancia.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ProblemaOcho/src/main/java/edu/upvictoria/fpoo/Distancia.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProblemaOcho/src/main/java/edu/upvictoria/fpoo/ProblemaOcho.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ProblemaOcho/src/main/java/edu/upvictoria/fpoo/ProblemaOcho.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProblemaOcho/src/test/java/edu/upvictoria/fpoo/DisTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ProblemaOcho/src/test/java/edu/upvictoria/fpoo/DisTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProblemaOnce/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ProblemaOnce/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProblemaOnce/src/main/java/edu/upvictoria/fpoo/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ProblemaOnce/src/main/java/edu/upvictoria/fpoo/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProblemaOnce/src/main/java/edu/upvictoria/fpoo/Conagua.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ProblemaOnce/src/main/java/edu/upvictoria/fpoo/Conagua.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProblemaOnce/src/main/java/edu/upvictoria/fpoo/ProblemaOnce.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ProblemaOnce/src/main/java/edu/upvictoria/fpoo/ProblemaOnce.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProblemaOnce/src/test/java/edu/upvictoria/fpoo/ConaguaTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ProblemaOnce/src/test/java/edu/upvictoria/fpoo/ConaguaTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProblemaQuince/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ProblemaQuince/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProblemaQuince/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ProblemaQuince/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProblemaQuince/src/main/java/edu/upvictoria/fpoo/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ProblemaQuince/src/main/java/edu/upvictoria/fpoo/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProblemaQuince/src/main/java/edu/upvictoria/fpoo/Edad.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ProblemaQuince/src/main/java/edu/upvictoria/fpoo/Edad.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProblemaQuince/src/main/java/edu/upvictoria/fpoo/ProblemaQuince.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ProblemaQuince/src/main/java/edu/upvictoria/fpoo/ProblemaQuince.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProblemaQuince/src/test/java/edu/upvictoria/fpoo/EdadTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ProblemaQuince/src/test/java/edu/upvictoria/fpoo/EdadTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProblemaSiete/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ProblemaSiete/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProblemaSiete/src/main/java/edu/upvictoria/fpoo/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ProblemaSiete/src/main/java/edu/upvictoria/fpoo/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProblemaSiete/src/main/java/edu/upvictoria/fpoo/Litros.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ProblemaSiete/src/main/java/edu/upvictoria/fpoo/Litros.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProblemaSiete/src/main/java/edu/upvictoria/fpoo/ProblemaSiete.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ProblemaSiete/src/main/java/edu/upvictoria/fpoo/ProblemaSiete.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProblemaSiete/src/test/java/edu/upvictoria/fpoo/Convercion.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ProblemaSiete/src/test/java/edu/upvictoria/fpoo/Convercion.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProblemaTrece/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ProblemaTrece/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProblemaTrece/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ProblemaTrece/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProblemaTrece/src/main/java/edu/upvictoria/fpoo/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ProblemaTrece/src/main/java/edu/upvictoria/fpoo/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProblemaTrece/src/main/java/edu/upvictoria/fpoo/Dolar.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ProblemaTrece/src/main/java/edu/upvictoria/fpoo/Dolar.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProblemaTrece/src/main/java/edu/upvictoria/fpoo/ProblemaTrece.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ProblemaTrece/src/main/java/edu/upvictoria/fpoo/ProblemaTrece.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProblemaTrece/src/test/java/edu/upvictoria/fpoo/DolarTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ProblemaTrece/src/test/java/edu/upvictoria/fpoo/DolarTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProblemaVeinte/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ProblemaVeinte/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProblemaVeinte/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ProblemaVeinte/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProblemaVeinte/src/main/java/edu/upvictoria/fpoo/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ProblemaVeinte/src/main/java/edu/upvictoria/fpoo/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProblemaVeinte/src/main/java/edu/upvictoria/fpoo/ProblemaVeinte.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ProblemaVeinte/src/main/java/edu/upvictoria/fpoo/ProblemaVeinte.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProblemaVeinte/src/main/java/edu/upvictoria/fpoo/Telefono.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ProblemaVeinte/src/main/java/edu/upvictoria/fpoo/Telefono.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProblemaVeinte/src/test/java/edu/upvictoria/fpoo/TelefonoTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ProblemaVeinte/src/test/java/edu/upvictoria/fpoo/TelefonoTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProblemaVeintidos/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ProblemaVeintidos/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProblemaVeintidos/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ProblemaVeintidos/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProblemaVeintidos/src/main/java/edu/upvictoria/fpoo/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ProblemaVeintidos/src/main/java/edu/upvictoria/fpoo/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProblemaVeintidos/src/main/java/edu/upvictoria/fpoo/Luz.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ProblemaVeintidos/src/main/java/edu/upvictoria/fpoo/Luz.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProblemaVeintidos/src/main/java/edu/upvictoria/fpoo/ProblemaVeintidos.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ProblemaVeintidos/src/main/java/edu/upvictoria/fpoo/ProblemaVeintidos.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProblemaVeintidos/src/test/java/edu/upvictoria/fpoo/LuzTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ProblemaVeintidos/src/test/java/edu/upvictoria/fpoo/LuzTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProblemaVeintiuno/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ProblemaVeintiuno/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProblemaVeintiuno/src/main/java/edu/upvictoria/fpoo/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ProblemaVeintiuno/src/main/java/edu/upvictoria/fpoo/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProblemaVeintiuno/src/main/java/edu/upvictoria/fpoo/Conagua.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ProblemaVeintiuno/src/main/java/edu/upvictoria/fpoo/Conagua.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProblemaVeintiuno/src/main/java/edu/upvictoria/fpoo/ProblemaVeintiuno.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ProblemaVeintiuno/src/main/java/edu/upvictoria/fpoo/ProblemaVeintiuno.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProblemaVeintiuno/src/test/java/edu/upvictoria/fpoo/ConaguaTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ProblemaVeintiuno/src/test/java/edu/upvictoria/fpoo/ConaguaTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problema_Seis/.attach_pid51085" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problema_Seis/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Problema_Seis/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problema_Seis/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Problema_Seis/pom.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="2" />
+  </component>
+  <component name="ProjectId" id="2bcHbGIq3J8Ero3VSCHXlq5yOG0" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3fde2afa-9b7d-4273-923b-a2457f360a10" name="Changes" comment="" />
+      <created>1706507517837</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1706507517837</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
