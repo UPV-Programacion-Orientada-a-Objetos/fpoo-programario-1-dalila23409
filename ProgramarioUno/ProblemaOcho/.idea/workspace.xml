@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="032c4f90-405e-4604-a00e-53de0a85b81b" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProblemaCinco/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ProblemaCinco/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProblemaCinco/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ProblemaCinco/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProblemaSiete/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ProblemaSiete/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProblemaSiete/src/main/java/edu/upvictoria/fpoo/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ProblemaSiete/src/main/java/edu/upvictoria/fpoo/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProblemaSiete/src/main/java/edu/upvictoria/fpoo/Litros.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ProblemaSiete/src/main/java/edu/upvictoria/fpoo/Litros.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProblemaSiete/src/main/java/edu/upvictoria/fpoo/ProblemaSiete.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ProblemaSiete/src/main/java/edu/upvictoria/fpoo/ProblemaSiete.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProblemaSiete/src/test/java/edu/upvictoria/fpoo/Convercion.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ProblemaSiete/src/test/java/edu/upvictoria/fpoo/Convercion.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problema_Seis/.attach_pid51085" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problema_Seis/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Problema_Seis/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problema_Seis/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Problema_Seis/pom.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="2" />
+  </component>
+  <component name="ProjectId" id="2bblrtBkZu3fqg2aoXwUBQmpeTt" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="032c4f90-405e-4604-a00e-53de0a85b81b" name="Changes" comment="" />
+      <created>1706491869646</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1706491869646</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
